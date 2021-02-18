@@ -1,0 +1,19 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "demonstrating mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo\\\"Error: no test specified",
+    "start": "nodemon server.js"
+  },
+  "author": "Adi Uraih",
+  "license": "ISC",
+  "dependencies": {
+    "clock": "^1.0.2",
+    "cowsay": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
